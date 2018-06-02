@@ -13,3 +13,6 @@ This is a conversation app clone made by using socket.io
 - Socket.io
 - Shell
 - Gitkraken
+
+## Improvings:
+- Broadcasts a message when someone connects/disconnects
