@@ -1,5 +1,5 @@
 # Socket work
-This is a conversation app made by using socket.io
+This is a conversation app clone made by using socket.io
 
 ## How to Run
 1. Clone this repo
