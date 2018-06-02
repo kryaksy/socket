@@ -1,5 +1,5 @@
 # Socket work
-This is a conversation app clone made by using socket.io
+This is a conversation app clone initialized with socket.io
 
 ## How to Run
 1. Clone this repo
@@ -8,7 +8,7 @@ This is a conversation app clone made by using socket.io
 
 ## Tech Used:
 - HTML/CSS
-- Javascript
+- Javascript/jQuery
 - Sublime Text 3
 - Socket.io
 - Shell
